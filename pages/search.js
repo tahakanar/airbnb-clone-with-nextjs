@@ -44,7 +44,6 @@ function Search({ searchResults }) {
                   description={description}
                   star={star}
                   total={total}
-                  price={star}
                   price={price}
                 />
               )
